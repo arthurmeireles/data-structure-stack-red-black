@@ -1,4 +1,3 @@
-
 public class Pilha {
 	
 	private int tamanhoPilha;
